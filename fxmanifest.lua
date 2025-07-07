@@ -8,6 +8,7 @@ description 'Applications for jobs'
 
 shared_scripts {
     "@ox_lib/init.lua",
+    -- '@lation_ui/init.lua',
     "config.lua"
 }
 
